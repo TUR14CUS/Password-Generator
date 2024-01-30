@@ -1,5 +1,12 @@
 # Password Generator
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Usage](#usage)
+3. [Customization](#customization)
+4. [Contributing](#contributing)
+5. [License](#license)
+
 ## Overview
 
 Welcome to the PyPassword Generator! This Python script allows you to generate strong and random passwords with a combination of letters, numbers, and symbols. You can customize the length and composition of your password based on your security requirements.
@@ -42,4 +49,6 @@ symbols = ['!', '#', '$', '%', ..., '+']
 
 If you have any suggestions or improvements, please open an issue or create a pull request on [GitHub](https://github.com/TUR14CUS/Password-Generator).
 
-Happy password generating!
+## License
+
+This project is licensed under the [MIT License](LICENSE).
